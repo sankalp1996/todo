@@ -42,7 +42,7 @@ const Main = () => {
           <div className="row">
             <div className="col-md-10">
               <i className="fa-solid fa-pencil" />
-              <h1>To-Do App 2</h1>
+              <h1>To-Do App 3</h1>
             </div>
           </div>
         </header>
