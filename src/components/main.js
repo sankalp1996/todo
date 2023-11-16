@@ -10,7 +10,7 @@ const Main = () => {
   };
 
   const dispatch = useDispatch();
-  const myTask = useSelector((state) => state.deleteTask);
+  const myTask = useSelector((state) => state.addNew);
   console.log("myTask-",myTask)
   const ref1 = useRef(0);
 
