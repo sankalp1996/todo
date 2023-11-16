@@ -48,7 +48,7 @@ const Main = () => {
         </header>
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title">Add New Task</h5>
+            <h5 className="card-title">Add New Task...</h5>
             <div className="input-group">
               <input
                 className="form-control form-control-lg"
